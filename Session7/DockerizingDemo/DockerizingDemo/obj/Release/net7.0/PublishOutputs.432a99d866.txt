@@ -1,0 +1,7 @@
+C:\Tranning\C# training\29_16_training\Projects\DockerizingDemo\DockerizingDemo\obj\Docker\publish\DockerizingDemo.exe
+C:\Tranning\C# training\29_16_training\Projects\DockerizingDemo\DockerizingDemo\obj\Docker\publish\appsettings.Development.json
+C:\Tranning\C# training\29_16_training\Projects\DockerizingDemo\DockerizingDemo\obj\Docker\publish\appsettings.json
+C:\Tranning\C# training\29_16_training\Projects\DockerizingDemo\DockerizingDemo\obj\Docker\publish\DockerizingDemo.dll
+C:\Tranning\C# training\29_16_training\Projects\DockerizingDemo\DockerizingDemo\obj\Docker\publish\DockerizingDemo.deps.json
+C:\Tranning\C# training\29_16_training\Projects\DockerizingDemo\DockerizingDemo\obj\Docker\publish\DockerizingDemo.runtimeconfig.json
+C:\Tranning\C# training\29_16_training\Projects\DockerizingDemo\DockerizingDemo\obj\Docker\publish\DockerizingDemo.pdb
